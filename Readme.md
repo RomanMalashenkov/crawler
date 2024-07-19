@@ -24,7 +24,7 @@ Crawler обходит веб-страницы, извлекая текст из
    ```
 2. Склонируйте репозиторий:
 ```sh
-git clone <URL вашего репозитория>
+git clone https://github.com/RomanMalashenkov/crawler.git
 cd cmd/crawler
 ```
 3. Запустите приложение:
